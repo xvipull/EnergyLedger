@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+data/energy_ledger.db
+data/staging/*.csv
+!data/staging/.gitkeep
+reports/data_quality_report.md
+!reports/.gitkeep
